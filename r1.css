@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+/* navigation bar styles */
+.navbar1 {
+    height: 60px;
+    background-color: #0f1111;
+    justify-content: space-around;
+    color: white;
+    display: flex;
+    align-items: center;   
+}
